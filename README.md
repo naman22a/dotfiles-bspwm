@@ -19,11 +19,11 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles/master/assets/1.png)
+![App Screenshot](./assets/1.png)
 
-![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles/master/assets/2.png)
+![App Screenshot](./assets/2.png)
 
-![App Screenshot](https://raw.githubusercontent.com/namanArora1022/dotfiles/master/assets/3.png)
+![App Screenshot](./assets/3.png)
 
 
 ## Installation
