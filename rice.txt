@@ -27,6 +27,7 @@ Done:
 
 Todos:
 
+add cowsay
 setup tmux (sessionizer)
 fancy power menu kind of like xfce
 add image support in alacritty or kitty (in ranger and neofetch)
