@@ -1,0 +1,44 @@
+Problem
+   sddm(sddm sugar candy not working) so using lightdm right now
+
+
+Done:
+   bspwm
+   sxhkd
+   zsh(fix slow loading time by removing zsh)
+   alacritty
+   kitty
+   (add more cool shell scripts like neofetch,pfetch,rxfetch,cava)
+   nvim (lvim)
+   picom(ibhagwan's picom)
+   neofetch
+   polybar 
+   rofi
+   screenshots using scrot
+   clipboard manager (greenclip)
+   screen brightness with media keys
+
+   icons
+   cursor theme(MacOs cursors)
+   nice file manager(thunar)
+   lxapperance (gtk theming)
+   discord theming
+   ranger
+
+Todos:
+
+setup tmux (sessionizer)
+fancy power menu kind of like xfce
+add image support in alacritty or kitty (in ranger and neofetch)
+fix kitty bold cursor in nvim in insert mode
+
+notifications
+
+conky time display (maybe)
+eww widgets
+music player (mpd ncmpcpp)
+
+spotify themeing
+firefox theming using css and firefox startup page
+
+pywal for multiple themes
