@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# $TERMINAL -e sudo pacman -Su && polybar-msg -p "$(pidof "polybar")" hook pacman-packages 1
+
+$TERMINAL -e sudo pacman -Syu
