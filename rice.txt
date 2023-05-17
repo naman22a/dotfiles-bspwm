@@ -8,7 +8,7 @@ Done:
    zsh(fix slow loading time by removing zsh)
    alacritty
    kitty
-   (add more cool shell scripts like neofetch,pfetch,rxfetch,cava)
+   (add more cool shell scripts like neofetch,pfetch,rxfetch,cava,pipes.sh)
    nvim (lvim)
    picom(ibhagwan's picom)
    neofetch
