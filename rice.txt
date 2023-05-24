@@ -27,6 +27,7 @@ Done:
 
 Todos:
 
+auto cpu freq
 add cowsay
 setup tmux (sessionizer)
 fancy power menu kind of like xfce
