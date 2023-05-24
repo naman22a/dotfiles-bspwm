@@ -33,7 +33,7 @@ Using install script
 Clone this repository
 
 ```bash
-git clone https://www.github.com/namanArora1022/dotfiles.git ~/.dotfiles
+git clone https://www.github.com/namanArora1022/dotfiles-bspwm.git ~/.dotfiles
 cd ~/.dotfiles
 chmod +x install.sh
 ./install.sh
@@ -41,6 +41,6 @@ chmod +x install.sh
 
 ## License
 
-[MIT LICENSED](https://github.com/namanArora1022/dotfiles/blob/master/LICENSE)
+[MIT LICENSED](./LICENSE)
 
 
